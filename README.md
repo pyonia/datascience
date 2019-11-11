@@ -1,16 +1,16 @@
 # data_science
 
-Data Visualization
+## Data Visualization
 
 
 
-• Exploratory analysis
+### • Exploratory analysis
 </br>
 > Looking for relationships in the data </br>
 > Connect to questions about data </br>
 > Visualizations don't need to be perfect </br>
 
-• Explanatory visualizations
+### • Explanatory visualizations
 </br>
 > Highlight insights </br>
 > Surrounded by a story </br>
@@ -18,7 +18,7 @@ Data Visualization
 
 </br>
 
-• 5 Steps in Data Analysis (and visualization)
+### • 5 Steps in Data Analysis (and visualization)
 </br>
 > Extract - Clean - Explore - Analyze - Share
 
@@ -29,7 +29,7 @@ Analyze - Here we might use either exploratory or explanatory visuals. </br>
 Share - Here is where explanatory visuals live.
 </br>
 
-• Bad Data Visualization </br>
+### • Bad Data Visualization </br>
 > Misleading </br>
 > Hiding </br>
 > Distracting </br>
@@ -46,4 +46,9 @@ The higher the data-to-ink ratio, the better. The formula is: </br>
 > / </br>
 > amount of ink used to describe everything else </br>
 (Higher the better)
+
+Lie Factor </br>
+> - [How deceptive is a data viz?](https://drive.google.com/file/d/12de-JacbyLhJ-lA-vATiLWmmtsIEbCNE/view?usp=sharing)
+> - [Feeling technical? See a formula for the lie factor](https://drive.google.com/file/d/1LvbCQ7x8ZK01QJCp1zPdEA2-HfVq_1NZ/view?usp=sharing)
+
 
