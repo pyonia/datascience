@@ -41,7 +41,7 @@ Share - Here is where explanatory visuals live.
 
 Data-to-ink Ratio (1983, Edward Tufte) </br>
 The higher the data-to-ink ratio, the better. The formula is: </br>
-> <p style="color:DodgerBlue;"> amount of ink used to describe the data </p> </br>
-------------------------------------- </br>
-amount of ink used to describe everything else </br>
+> <p style="color:blue;"> amount of ink used to describe the data </p> </br>
+> / </br>
+> amount of ink used to describe everything else </br>
 
