@@ -2,6 +2,8 @@
 
 Data Visualization
 
+
+
 Exploratory analysis
 </br>
 > Looking for relationships in the data </br>
@@ -13,3 +15,24 @@ Explanatory visualizations
 > Highlight insights </br>
 > Surrounded by a story </br>
 > Do not include unneeded information </br>
+
+</br>
+
+5 Steps in Data Analysis (and visualization)
+</br>
+> Extract - Clean - Explore - Analyze - Share
+
+Extract - Obtain the data from a spreadsheet, SQL, the web, etc. </br>
+Clean - Here we could use exploratory visuals. </br>
+Explore - Here we use exploratory visuals. </br>
+Analyze - Here we might use either exploratory or explanatory visuals. </br>
+Share - Here is where explanatory visuals live.
+</br>
+
+Bad Data Visualization </br>
+> Misleading </br>
+> Hiding </br>
+> Distracting </br>
+
+to prevent that: </br>
+Adding extra elements to the visuals that do not convey the message in your data should be avoided. Strive for elegance and simplicity in your visuals. </br>
