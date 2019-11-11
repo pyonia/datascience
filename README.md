@@ -35,7 +35,7 @@ Share - Here is where explanatory visuals live.
 > Distracting </br>
 
 ...to prevent that: </br>
-1) Adding extra elements to the visuals that do not convey the message in your data should be avoided. </br>
+1) Avoid: adding extra elements to the visuals that do not convey the message in your data. </br>
 2) Strive for elegance and simplicity in your visuals. </br>
 
 </br>
