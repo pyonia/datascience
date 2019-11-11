@@ -36,3 +36,12 @@ Share - Here is where explanatory visuals live.
 
 ...to prevent that: </br>
 1) Adding extra elements to the visuals that do not convey the message in your data should be avoided. 2) Strive for elegance and simplicity in your visuals. </br>
+
+</br>
+
+Data-to-ink Ratio (1983, Edward Tufte) </br>
+The higher the data-to-ink ratio, the better. The formula is: </br>
+> <p style="color:DodgerBlue;"> amount of ink used to describe the data </p> </br>
+------------------------------------- </br>
+amount of ink used to describe everything else </br>
+
