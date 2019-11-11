@@ -60,3 +60,9 @@ Lie Factor </br>
 // Make colour selections that facilitates communication. //
 > Color for communication. Use color to highlight your message and separate groups of interest. Don't add color just to have color in your visualization.
 
+• Data Aided Storytelling </br>
+> - [Data storytelling considerations](https://drive.google.com/file/d/1tHAGjKfkasC7ZN1GUZEGNTjO4R5s7TCo/view?usp=sharing) </br>
+> Compelling questions needed </br>
+> Repetition is a good thing </br>
+> You must motivate the action, as data by itself does not motivate the action; data can assist in your conclusion but you have to provide context! </br>
+
